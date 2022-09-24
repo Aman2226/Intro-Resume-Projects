@@ -1,4 +1,3 @@
-[![MasterHead](http://https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://Aman2226.io)
 <h1 align="center">Hi 👋, I'm Aman Meena</h1>
 <h3 align="center">A passionate android and web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
