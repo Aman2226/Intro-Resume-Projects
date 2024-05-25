@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C,C++,HTML,CSS as well as Javascript**
+- 💬 Ask me about **C,C++(DSA),DBMS,SQL,HTML,CSS as well as Javascript**
 
 - 📫 How to reach me **amanmeena36901@gmail.com**
 
