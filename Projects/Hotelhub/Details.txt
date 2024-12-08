@@ -1,0 +1,20 @@
+- HotelHub - Hotel Room Management System
+
+- Project Name: HotelHub
+- Technologies Used:
+1.C++
+2.SQL (for database management)
+
+- Features:
+1.Allows users to manage hotel room details, including adding, checking in, and checking out guests.
+2.Implements a simple database to store room and guest information using SQL.
+3.Provides a user-friendly interface for easy navigation and operation.
+
+- Development Environment:
+  Developed using Turbo C++ IDE.
+
+- Contact: For any queries or contributions, feel free to reach out at   amanmeena36901@gmail.com.
+Feel free to explore the code and contribute to this project!
+
+
+

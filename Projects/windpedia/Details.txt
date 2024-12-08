@@ -1,0 +1,27 @@
+- Windpedia - Weather Forecast Web App
+
+- Project Name: Windpedia
+
+- Technologies Used:
+
+1.HTML
+2.CSS
+3.JavaScript
+4.OpenWeather One Call API (for fetching weather data)
+5.IDE used Visual Studio
+
+- Features:
+
+- Displays current weather information, including temperature, humidity,   wind speed, and weather conditions.
+  Uses the OpenWeather One Call API to gather real-time data.
+
+- Project Structure:
+
+1.index.html: Main structure and layout of the web page.
+2.style.css: Styling for the page.
+3.app.js: JavaScript code for fetching and displaying the weather data.
+4.Deployment: Hosted on Netlify for easy access and sharing.
+
+- Contact: For any queries or contributions, feel free to reach out at   amanmeena36901@gmail.com.
+
+Feel free to explore the source code and contribute!
